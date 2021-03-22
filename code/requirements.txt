@@ -13,7 +13,7 @@ idna==2.6
 isodate==0.6.0
 itsdangerous==0.24
 Jinja2==2.10
-lxml==4.1.1
+lxml==4.6.3
 MarkupSafe==1.0
 msgpack-numpy==0.4.1
 msgpack-python==0.4.8
