@@ -19,7 +19,7 @@ msgpack-numpy==0.4.1
 msgpack-python==0.4.8
 murmurhash==0.28.0
 nltk==3.2.4
-numpy==1.13.3
+numpy==1.22.0
 pandas==0.20.3
 pathlib==1.0.1
 plac==0.9.6
